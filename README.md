@@ -1,1 +1,1 @@
-# ml-projects
+# ML Projects
